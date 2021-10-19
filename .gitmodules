@@ -1,0 +1,3 @@
+[submodule "submodule/facemask-data-viewer"]
+	path = submodule/facemask-data-viewer
+	url = https://github.com/eonsriram/facemask-data-viewer.git
